@@ -1,2 +1,2 @@
 # HeatTransferVisualisation
-Visualize temperature distribution in cylinders and spheres using Python.
+This Python script calculates and visualizes steady-state temperature distribution in cylindrical and spherical geometries.
