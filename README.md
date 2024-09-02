@@ -12,3 +12,4 @@ This Python script calculates and visualizes steady-state temperature distributi
 ## Usage:
 
 * **Open the notebook:** Click on the following link to open the notebook in Google Colab: https://colab.research.google.com/drive/1MaFWrj_s4SkPxnhFt_F3mkiFfJcqK4aW?usp=sharing
+* **Run the notebook:** Follow the prompts in the notebook to enter parameters and view the results.
